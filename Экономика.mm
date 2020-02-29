@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;" FOLDED="false" ID="ID_481355294" CREATED="1581430694972" MODIFIED="1581430704457" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" zoom="0.751">
     <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
@@ -34129,12 +34129,12 @@
 <font BOLD="true"/>
 <node TEXT="&#x421;&#x43e;&#x433;&#x43b;&#x430;&#x441;&#x43d;&#x43e; &#x441;&#x43f;&#x438;&#x441;&#x43a;&#x430; &#x43c;&#x43e;&#x439; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442; &#x2116;4" ID="ID_693842220" CREATED="1581507006761" MODIFIED="1581507018368"/>
 </node>
-<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x438; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442;&#x430;" ID="ID_1895547318" CREATED="1581507020661" MODIFIED="1581507028633">
+<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x438; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43d;&#x442;&#x430;" FOLDED="true" ID="ID_1895547318" CREATED="1581507020661" MODIFIED="1581507028633">
 <font BOLD="true"/>
 <node TEXT="&#x41f;&#x440;&#x438;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43a;&#x440;&#x430;&#x442;&#x43a;&#x438;&#x435; &#x43e;&#x442;&#x432;&#x435;&#x442;&#x44b; &#x43d;&#x430; &#x441;&#x43b;&#x435;&#x434;&#x443;&#x44e;&#x449;&#x438;&#x435; &#x432;&#x43e;&#x43f;&#x440;&#x43e;&#x441;&#x44b;" ID="ID_1825016717" CREATED="1581507159398" MODIFIED="1581507165809">
 <font BOLD="true"/>
 </node>
-<node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441;&#x44b;" ID="ID_402831043" CREATED="1581507169787" MODIFIED="1581507171566">
+<node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441;&#x44b;" FOLDED="true" ID="ID_402831043" CREATED="1581507169787" MODIFIED="1581507171566">
 <font BOLD="true"/>
 <node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441; 1" FOLDED="true" ID="ID_28024010" CREATED="1581507121087" MODIFIED="1581507123755">
 <font BOLD="true"/>
@@ -34161,7 +34161,7 @@
 <node TEXT="&#x41e;&#x442;&#x432;&#x435;&#x442; 2" ID="ID_1124409332" CREATED="1581507194391" MODIFIED="1581507195951">
 <font BOLD="true"/>
 </node>
-<node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441; 3" ID="ID_764723496" CREATED="1581507196903" MODIFIED="1581507199274">
+<node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441; 3" FOLDED="true" ID="ID_764723496" CREATED="1581507196903" MODIFIED="1581507199274">
 <font BOLD="true"/>
 <node TEXT="9996_economy_kw.png" ID="ID_1172241166" CREATED="1581507216060" MODIFIED="1581507216060">
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9996_economy_kw.png" SIZE="0.7371007" NAME="ExternalObject"/>
@@ -34177,7 +34177,7 @@
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9995_economy_kw.png" SIZE="0.58365756" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x430; 2" FOLDED="true" ID="ID_627331366" CREATED="1581507266307" MODIFIED="1581507268132">
+<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x430; 2" ID="ID_627331366" CREATED="1581507266307" MODIFIED="1581507268132">
 <font BOLD="true"/>
 <node TEXT="9994_economy_kw.png" ID="ID_940333496" CREATED="1581507301724" MODIFIED="1581507301724">
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9994_economy_kw.png" SIZE="0.78431374" NAME="ExternalObject"/>
@@ -34186,7 +34186,7 @@
 </node>
 <node TEXT="&#x41f;&#x43e;&#x43d;&#x44f;&#x442;&#x438;&#x44f;" ID="ID_440888339" CREATED="1581507343095" MODIFIED="1581507766049">
 <font BOLD="true"/>
-<node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441; 1" FOLDED="true" ID="ID_70565585" CREATED="1581507345934" MODIFIED="1582889216547">
+<node TEXT="&#x412;&#x43e;&#x43f;&#x440;&#x43e;&#x441; 1" ID="ID_70565585" CREATED="1581507345934" MODIFIED="1582889216547">
 <font BOLD="true"/>
 <node TEXT="&#x411;&#x43b;&#x430;&#x433;&#x43e;" FOLDED="true" ID="ID_1279891249" CREATED="1582885845190" MODIFIED="1582885847811">
 <font BOLD="true"/>
@@ -34204,6 +34204,12 @@
 </node>
 <node TEXT="9963_economy_chep_links.png" ID="ID_878383605" CREATED="1582885958095" MODIFIED="1582885958095">
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9963_economy_chep_links.png" SIZE="0.6048387" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43f;&#x440;&#x43e;&#x441;" FOLDED="true" ID="ID_1988535670" CREATED="1582922115301" MODIFIED="1582922116876">
+<font BOLD="true"/>
+<node TEXT="9930_economy_lectures.png" ID="ID_1269014681" CREATED="1582922097548" MODIFIED="1582922097548">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9930_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
 </node>
 </node>
 <node TEXT="&#x414;&#x435;&#x444;&#x438;&#x446;&#x438;&#x442;&#x43d;&#x43e;&#x435; &#x431;&#x43b;&#x430;&#x433;&#x43e;" ID="ID_1428917028" CREATED="1581507356605" MODIFIED="1581507746081">
@@ -34279,12 +34285,12 @@
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9952_economy_chep_links.png" SIZE="0.6006006" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="" FOLDED="true" ID="ID_1246954115" CREATED="1582890250347" MODIFIED="1582890250347">
+<node TEXT="" ID="ID_1246954115" CREATED="1582890250347" MODIFIED="1582890250347">
 <node TEXT="9951_economy_chep_links.png" ID="ID_740412138" CREATED="1582890121856" MODIFIED="1582890121856">
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9951_economy_chep_links.png" SIZE="1.0" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="" FOLDED="true" ID="ID_1131396440" CREATED="1582890248520" MODIFIED="1582890248520">
+<node TEXT="" ID="ID_1131396440" CREATED="1582890248520" MODIFIED="1582890248520">
 <node TEXT="9950_economy_chep_links.png" ID="ID_895436528" CREATED="1582890169876" MODIFIED="1582890169876">
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9950_economy_chep_links.png" SIZE="0.60240966" NAME="ExternalObject"/>
 </node>
@@ -34309,7 +34315,7 @@
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9946_economy_chep_links.png" SIZE="0.6060606" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="" FOLDED="true" ID="ID_1363190778" CREATED="1582890328546" MODIFIED="1582890328546">
+<node TEXT="" ID="ID_1363190778" CREATED="1582890328546" MODIFIED="1582890328546">
 <node TEXT="9945_economy_chep_links.png" ID="ID_21050054" CREATED="1582890334503" MODIFIED="1582890334503">
 <hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9945_economy_chep_links.png" SIZE="0.6048387" NAME="ExternalObject"/>
 </node>
@@ -34339,13 +34345,56 @@
 <font BOLD="true"/>
 </node>
 </node>
-<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x430; 1" FOLDED="true" ID="ID_1484146204" CREATED="1581507481046" MODIFIED="1581507483152">
+<node TEXT="&#x417;&#x430;&#x434;&#x430;&#x447;&#x430; 1" ID="ID_1484146204" CREATED="1581507481046" MODIFIED="1581507483152">
 <font BOLD="true"/>
 <node TEXT="&#x422;&#x43e;&#x432;&#x430;&#x440;" ID="ID_606162336" CREATED="1581507519661" MODIFIED="1581507520924"/>
 <node TEXT="&#x426;&#x435;&#x43d;&#x430;" ID="ID_1399127671" CREATED="1581507517165" MODIFIED="1581507519006"/>
 <node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" ID="ID_47088007" CREATED="1581507492387" MODIFIED="1581507495273"/>
-<node TEXT="&#x420;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x43d;&#x430;&#x44f; &#x446;&#x435;&#x43d;&#x430; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" ID="ID_1828120794" CREATED="1581507495897" MODIFIED="1581507733725">
+<node TEXT="&#x420;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x43d;&#x430;&#x44f; &#x446;&#x435;&#x43d;&#x430; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" FOLDED="true" ID="ID_1828120794" CREATED="1581507495897" MODIFIED="1581507733725">
 <font BOLD="true"/>
+<node TEXT="" FOLDED="true" ID="ID_1124490314" CREATED="1582921695794" MODIFIED="1582921695794">
+<node TEXT="9940_economy_chep_links.png" ID="ID_1759116533" CREATED="1582921343619" MODIFIED="1582921343619">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9940_economy_chep_links.png" SIZE="0.5859375" NAME="ExternalObject"/>
+</node>
+<node TEXT="9939_economy_chep_links.png" ID="ID_1145177518" CREATED="1582921365637" MODIFIED="1582921365637">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9939_economy_chep_links.png" SIZE="0.5964215" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_1874571634" CREATED="1582921697994" MODIFIED="1582921697994">
+<node TEXT="9938_economy_chep_links.png" ID="ID_704387166" CREATED="1582921706480" MODIFIED="1582921706480">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9938_economy_chep_links.png" SIZE="0.8902077" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_167887146" CREATED="1582921748834" MODIFIED="1582921748834">
+<node TEXT="9937_economy_chep_links.png" ID="ID_61723697" CREATED="1582921754138" MODIFIED="1582921754138">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9937_economy_chep_links.png" SIZE="0.6006006" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_1949783977" CREATED="1582921773764" MODIFIED="1582921773764">
+<node TEXT="9936_economy_chep_links.png" ID="ID_1484514818" CREATED="1582921782141" MODIFIED="1582921782141">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9936_economy_chep_links.png" SIZE="0.5940594" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_1207604537" CREATED="1582921795618" MODIFIED="1582921795618">
+<node TEXT="9935_economy_chep_links.png" ID="ID_1388438573" CREATED="1582921800282" MODIFIED="1582921800282">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9935_economy_chep_links.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_616978399" CREATED="1582921818644" MODIFIED="1582921818644">
+<node TEXT="9934_economy_chep_links.png" ID="ID_1034163961" CREATED="1582921824073" MODIFIED="1582921824073">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9934_economy_chep_links.png" SIZE="0.6006006" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_647947337" CREATED="1582921836464" MODIFIED="1582921836464">
+<node TEXT="9933_economy_chep_links.png" ID="ID_689604911" CREATED="1582921840957" MODIFIED="1582921840957">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9933_economy_chep_links.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="" FOLDED="true" ID="ID_1145756622" CREATED="1582921854106" MODIFIED="1582921854106">
+<node TEXT="9932_economy_chep_links.png" ID="ID_485933420" CREATED="1582921858490" MODIFIED="1582921858490">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9932_economy_chep_links.png" SIZE="0.5928854" NAME="ExternalObject"/>
+</node>
+</node>
 </node>
 <node TEXT="&#x41f;&#x440;&#x43e;&#x434;&#x430;&#x436;&#x430;" ID="ID_679626910" CREATED="1581507525386" MODIFIED="1581507530331"/>
 <node TEXT="&#x41e;&#x431;&#x44a;&#x451;&#x43c; &#x43f;&#x440;&#x43e;&#x434;&#x430;&#x436;" ID="ID_591778965" CREATED="1581507500967" MODIFIED="1581507507633"/>
@@ -34402,7 +34451,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x41b;&#x435;&#x43a;&#x446;&#x438;&#x438;, &#x43f;&#x43e;&#x43d;&#x44f;&#x442;&#x438;&#x439;&#x43d;&#x44b;&#x439; &#x440;&#x430;&#x437;&#x431;&#x43e;&#x440;" FOLDED="true" POSITION="right" ID="ID_711454773" CREATED="1581855958983" MODIFIED="1581855966568">
+<node TEXT="&#x41b;&#x435;&#x43a;&#x446;&#x438;&#x438;, &#x43f;&#x43e;&#x43d;&#x44f;&#x442;&#x438;&#x439;&#x43d;&#x44b;&#x439; &#x440;&#x430;&#x437;&#x431;&#x43e;&#x440;" POSITION="right" ID="ID_711454773" CREATED="1581855958983" MODIFIED="1581855966568">
 <edge COLOR="#7c007c"/>
 <font BOLD="true"/>
 <node TEXT="1 &#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f; &#x442;&#x435;&#x43e;&#x440;&#x438;&#x44f; &#x43a;&#x430;&#x43a; &#x43d;&#x430;&#x443;&#x43a;&#x430;" FOLDED="true" ID="ID_1171858732" CREATED="1581855982969" MODIFIED="1581855991885">
@@ -34642,7 +34691,7 @@
 </node>
 </node>
 </node>
-<node TEXT="2 &#x420;&#x44b;&#x43d;&#x43e;&#x43a;: &#x435;&#x433;&#x43e; &#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x44b; &#x438; &#x43c;&#x435;&#x445;&#x430;&#x43d;&#x438;&#x437;&#x43c; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x43e;&#x43d;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_414824529" CREATED="1581857183517" MODIFIED="1581857204963">
+<node TEXT="2 &#x420;&#x44b;&#x43d;&#x43e;&#x43a;: &#x435;&#x433;&#x43e; &#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x44b; &#x438; &#x43c;&#x435;&#x445;&#x430;&#x43d;&#x438;&#x437;&#x43c; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x43e;&#x43d;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x438;&#x44f;" ID="ID_414824529" CREATED="1581857183517" MODIFIED="1581857204963">
 <font BOLD="true"/>
 <node TEXT="2.1 &#x420;&#x44b;&#x43d;&#x43e;&#x43a;, &#x435;&#x433;&#x43e; &#x441;&#x443;&#x449;&#x43d;&#x43e;&#x441;&#x442;&#x44c;" FOLDED="true" ID="ID_393588563" CREATED="1581857210718" MODIFIED="1581857217412">
 <font BOLD="true"/>
@@ -34725,107 +34774,344 @@
 </node>
 <node TEXT="2.3 &#x421;&#x43f;&#x440;&#x43e;&#x441;, &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435;, &#x440;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x435; &#x440;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x438;&#x435;" FOLDED="true" ID="ID_679722300" CREATED="1581857231037" MODIFIED="1581857240208">
 <font BOLD="true"/>
-<node TEXT="&#x421;&#x43f;&#x440;&#x43e;&#x441;" ID="ID_429384530" CREATED="1581857625496" MODIFIED="1581857634265">
+<node TEXT="&#x41f;&#x440;&#x43e;&#x431;&#x43b;&#x435;&#x43c;&#x430;" FOLDED="true" ID="ID_112877304" CREATED="1582922034762" MODIFIED="1582922037586">
 <font BOLD="true"/>
-<node TEXT="&#x41e;&#x431;&#x44a;&#x451;&#x43c; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1795211585" CREATED="1581857646006" MODIFIED="1581857651588">
+<node TEXT="9931_economy_lectures.png" ID="ID_978339716" CREATED="1582922060573" MODIFIED="1582922060573">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9931_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43f;&#x440;&#x43e;&#x441;" FOLDED="true" ID="ID_429384530" CREATED="1581857625496" MODIFIED="1581857634265">
 <font BOLD="true"/>
-</node>
-<node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1709940348" CREATED="1581857654878" MODIFIED="1581857657462">
+<node TEXT="&#x421;&#x43f;&#x440;&#x43e;&#x441;" FOLDED="true" ID="ID_1523272719" CREATED="1582922068732" MODIFIED="1582922070682">
 <font BOLD="true"/>
+<node TEXT="9930_economy_lectures.png" ID="ID_1812131811" CREATED="1582922097548" MODIFIED="1582922097548">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9930_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
 </node>
-<node TEXT="&#x424;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1541434092" CREATED="1581857661345" MODIFIED="1581857664720">
+<node TEXT="9929_economy_lectures.png" ID="ID_172815512" CREATED="1582922155749" MODIFIED="1582922155749">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9929_economy_lectures.png" SIZE="0.6018054" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x431;&#x44a;&#x451;&#x43c; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1795211585" CREATED="1581857646006" MODIFIED="1581857651588">
 <font BOLD="true"/>
-<node TEXT="&#x422;&#x430;&#x431;&#x43b;&#x438;&#x446;&#x430;" ID="ID_350581582" CREATED="1581857672287" MODIFIED="1581857684524">
-<node TEXT="&#x417;&#x430;&#x432;&#x438;&#x441;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430; &#x43e;&#x442; &#x446;&#x435;&#x43d;&#x44b; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" ID="ID_1650933814" CREATED="1581857688856" MODIFIED="1581857702270">
-<icon BUILTIN="list"/>
+<node TEXT="9928_economy_lectures.png" ID="ID_767403603" CREATED="1582922192728" MODIFIED="1582922192728">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9928_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+<node TEXT="9927_economy_lectures.png" ID="ID_1612069989" CREATED="1582922210871" MODIFIED="1582922210871">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9927_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x410;&#x43d;&#x430;&#x43b;&#x438;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;" ID="ID_1822643015" CREATED="1581857706901" MODIFIED="1581857711054"/>
-<node TEXT="&#x413;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;" ID="ID_582393672" CREATED="1581857720033" MODIFIED="1581857724539">
-<node TEXT="&#x41b;&#x438;&#x43d;&#x438;&#x44f; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1182814523" CREATED="1581857711489" MODIFIED="1581857716166">
-<icon BUILTIN="image"/>
-</node>
-</node>
-</node>
-<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1569122706" CREATED="1581857845756" MODIFIED="1581857850260">
+<node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1709940348" CREATED="1581857654878" MODIFIED="1581857657462">
 <font BOLD="true"/>
-</node>
-<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_423482515" CREATED="1581857839201" MODIFIED="1581857845296">
-<font BOLD="true"/>
-</node>
-<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430; &#x438; &#x441;&#x434;&#x432;&#x438;&#x433; &#x43b;&#x438;&#x43d;&#x438;&#x438; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1433247043" CREATED="1581857867520" MODIFIED="1581857878880">
-<icon BUILTIN="image"/>
-<font BOLD="true"/>
-</node>
-<node TEXT="&#x417;&#x430;&#x43a;&#x43e;&#x43d; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" ID="ID_1201288965" CREATED="1581857887119" MODIFIED="1581857889156">
-<font BOLD="true"/>
-<node TEXT="&#x41f;&#x430;&#x440;&#x430;&#x434;&#x43e;&#x43a;&#x441; &#x413;&#x438;&#x444;&#x444;&#x435;&#x43d;&#x430;" ID="ID_269378661" CREATED="1581857893255" MODIFIED="1581857896793">
-<font BOLD="true"/>
-</node>
-<node TEXT="&#x41e;&#x448;&#x438;&#x431;&#x43e;&#x447;&#x43d;&#x44b;&#x435; &#x438;&#x441;&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1509672035" CREATED="1581857957537" MODIFIED="1581857962491">
-<font BOLD="true"/>
-<node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x43f;&#x43e;&#x43a;&#x430;&#x437;&#x430;&#x442;&#x435;&#x43b;&#x44c; &#x43a;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x430;" ID="ID_1112982426" CREATED="1581857946233" MODIFIED="1581857951646">
-<font BOLD="true"/>
-</node>
-<node TEXT="&#x42d;&#x444;&#x444;&#x435;&#x43a;&#x442; &#x412;&#x435;&#x431;&#x43b;&#x435;&#x43d;&#x430;" ID="ID_1056167860" CREATED="1581857977102" MODIFIED="1581857980880">
-<font BOLD="true"/>
-</node>
-<node TEXT="&#x42d;&#x444;&#x444;&#x435;&#x43a;&#x442; &#x43e;&#x436;&#x438;&#x434;&#x430;&#x435;&#x43c;&#x43e;&#x439; &#x434;&#x438;&#x43d;&#x430;&#x43c;&#x438;&#x43a;&#x438; &#x446;&#x435;&#x43d;" ID="ID_489535548" CREATED="1581857998218" MODIFIED="1581858007399">
-<font BOLD="true"/>
+<node TEXT="9926_economy_lectures.png" ID="ID_1273127726" CREATED="1582922235401" MODIFIED="1582922235401">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9926_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
 </node>
 </node>
+<node TEXT="&#x424;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1541434092" CREATED="1581857661345" MODIFIED="1581857664720">
+<font BOLD="true"/>
+<node TEXT="&#x424;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_50547054" CREATED="1582922248622" MODIFIED="1582922251743">
+<font BOLD="true"/>
+<node TEXT="9925_economy_lectures.png" ID="ID_309464539" CREATED="1582922256391" MODIFIED="1582922256391">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9925_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x41f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435;" ID="ID_598273256" CREATED="1581858032061" MODIFIED="1581858035128">
+<node TEXT="&#x41e;&#x431;&#x449;&#x438;&#x439; &#x432;&#x438;&#x434; &#x444;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x438; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1948691929" CREATED="1582922273943" MODIFIED="1582922277765">
 <font BOLD="true"/>
-<node TEXT="&#x41e;&#x431;&#x44a;&#x451;&#x43c; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1752365180" CREATED="1581858036134" MODIFIED="1581858040538">
-<font BOLD="true"/>
+<node TEXT="9922_economy_lectures.png" ID="ID_1857585500" CREATED="1582922373559" MODIFIED="1582922373559">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9922_economy_lectures.png" SIZE="0.7425743" NAME="ExternalObject"/>
 </node>
-<node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1306829836" CREATED="1581858042338" MODIFIED="1581858045064">
-<font BOLD="true"/>
 </node>
-<node TEXT="&#x41e;&#x431;&#x44a;&#x451;&#x43c; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_351095459" CREATED="1581858200221" MODIFIED="1581858207246">
+<node TEXT="&#x424;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430; &#x43e;&#x442; &#x446;&#x435;&#x43d;&#x44b;" FOLDED="true" ID="ID_1367966839" CREATED="1582922318229" MODIFIED="1582922324656">
 <font BOLD="true"/>
+<node TEXT="9923_economy_lectures.png" ID="ID_598496058" CREATED="1582922330927" MODIFIED="1582922330927">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9923_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
 </node>
-<node TEXT="&#x424;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1553604518" CREATED="1581858208307" MODIFIED="1581858212243">
-<font BOLD="true"/>
-<node TEXT="&#x422;&#x430;&#x431;&#x43b;&#x438;&#x447;&#x43d;&#x430;&#x44f;" ID="ID_1447953462" CREATED="1581858229987" MODIFIED="1581858285883">
-<node TEXT="&#x417;&#x430;&#x432;&#x438;&#x441;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f; &#x43e;&#x442; &#x446;&#x435;&#x43d;&#x44b; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" ID="ID_736898010" CREATED="1581858292802" MODIFIED="1581858308884">
+</node>
+<node TEXT="&#x417;&#x430;&#x432;&#x438;&#x441;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430; &#x43e;&#x442; &#x446;&#x435;&#x43d;&#x44b; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" FOLDED="true" ID="ID_1650933814" CREATED="1581857688856" MODIFIED="1582922382326">
 <icon BUILTIN="list"/>
 <font BOLD="true"/>
+<node TEXT="9924_economy_lectures.png" ID="ID_1454143614" CREATED="1582922348674" MODIFIED="1582922348674">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9924_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
 </node>
 </node>
-<node TEXT="&#x410;&#x43d;&#x430;&#x43b;&#x438;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f;" ID="ID_347154074" CREATED="1581858235554" MODIFIED="1581858238400"/>
+<node TEXT="&#x410;&#x43d;&#x430;&#x43b;&#x438;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;" FOLDED="true" ID="ID_1822643015" CREATED="1581857706901" MODIFIED="1582922405944">
+<font BOLD="true"/>
+<node TEXT="9921_economy_lectures.png" ID="ID_811535982" CREATED="1582922404728" MODIFIED="1582922404728">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9921_economy_lectures.png" SIZE="0.63559324" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x413;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x438;" FOLDED="true" ID="ID_582393672" CREATED="1581857720033" MODIFIED="1582922407333">
+<font BOLD="true"/>
+<node TEXT="&#x41b;&#x438;&#x43d;&#x438;&#x44f; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1182814523" CREATED="1581857711489" MODIFIED="1581857716166">
+<icon BUILTIN="image"/>
+<node TEXT="9920_economy_lectures.png" ID="ID_1469301202" CREATED="1582922416550" MODIFIED="1582922416550">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9920_economy_lectures.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="9919_economy_lectures.png" ID="ID_1773375193" CREATED="1582922439757" MODIFIED="1582922439757">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9919_economy_lectures.png" SIZE="0.6018054" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x41e;&#x442;&#x43b;&#x438;&#x447;&#x438;&#x435; &#x438;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x439; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1771622904" CREATED="1582922510484" MODIFIED="1582922515336">
+<font BOLD="true"/>
+<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1569122706" CREATED="1581857845756" MODIFIED="1581857850260">
+<font BOLD="true"/>
+<node TEXT="9918_economy_lectures.png" ID="ID_599016687" CREATED="1582922547651" MODIFIED="1582922547651">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9918_economy_lectures.png" SIZE="0.6066734" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_423482515" CREATED="1581857839201" MODIFIED="1581857845296">
+<font BOLD="true"/>
+<node TEXT="9917_economy_lectures.png" ID="ID_363283793" CREATED="1582922561102" MODIFIED="1582922561102">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9917_economy_lectures.png" SIZE="0.6066734" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430; &#x438; &#x441;&#x434;&#x432;&#x438;&#x433; &#x43b;&#x438;&#x43d;&#x438;&#x438; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1433247043" CREATED="1581857867520" MODIFIED="1581857878880">
+<icon BUILTIN="image"/>
+<font BOLD="true"/>
+<node TEXT="9916_economy_lectures.png" ID="ID_584665255" CREATED="1582922582734" MODIFIED="1582922582734">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9916_economy_lectures.png" SIZE="0.77220076" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x417;&#x430;&#x43a;&#x43e;&#x43d; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_1201288965" CREATED="1581857887119" MODIFIED="1581857889156">
+<font BOLD="true"/>
+<node TEXT="&#x417;&#x430;&#x43a;&#x43e;&#x43d; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430;" FOLDED="true" ID="ID_450610166" CREATED="1582922610357" MODIFIED="1582922612650">
+<font BOLD="true"/>
+<node TEXT="9915_economy_lectures.png" ID="ID_949768114" CREATED="1582922618094" MODIFIED="1582922618094">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9915_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x430;&#x440;&#x430;&#x434;&#x43e;&#x43a;&#x441; &#x413;&#x438;&#x444;&#x444;&#x435;&#x43d;&#x430;" FOLDED="true" ID="ID_269378661" CREATED="1581857893255" MODIFIED="1581857896793">
+<font BOLD="true"/>
+<node TEXT="9914_economy_lectures.png" ID="ID_1251482626" CREATED="1582922656150" MODIFIED="1582922656150">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9914_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x448;&#x438;&#x431;&#x43e;&#x447;&#x43d;&#x44b;&#x435; &#x438;&#x441;&#x43a;&#x43b;&#x44e;&#x447;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1509672035" CREATED="1581857957537" MODIFIED="1581857962491">
+<font BOLD="true"/>
+<node TEXT="&#x41e;&#x448;&#x438;&#x431;&#x43e;&#x447;&#x43d;&#x44b;&#x435;" FOLDED="true" ID="ID_64014433" CREATED="1582922680610" MODIFIED="1582922685742">
+<font BOLD="true"/>
+<node TEXT="9913_economy_lectures.png" ID="ID_1291221779" CREATED="1582922690562" MODIFIED="1582922690562">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9913_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x43f;&#x43e;&#x43a;&#x430;&#x437;&#x430;&#x442;&#x435;&#x43b;&#x44c; &#x43a;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x430;" FOLDED="true" ID="ID_1112982426" CREATED="1581857946233" MODIFIED="1581857951646">
+<font BOLD="true"/>
+<node TEXT="9912_economy_lectures.png" ID="ID_403822292" CREATED="1582922706137" MODIFIED="1582922706137">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9912_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+<node TEXT="9911_economy_lectures.png" ID="ID_1823548335" CREATED="1582922733651" MODIFIED="1582922733651">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9911_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x42d;&#x444;&#x444;&#x435;&#x43a;&#x442; &#x412;&#x435;&#x431;&#x43b;&#x435;&#x43d;&#x430;" FOLDED="true" ID="ID_1056167860" CREATED="1581857977102" MODIFIED="1581857980880">
+<font BOLD="true"/>
+<node TEXT="9910_economy_lectures.png" ID="ID_489748193" CREATED="1582922756780" MODIFIED="1582922756780">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9910_economy_lectures.png" SIZE="0.6042296" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x42d;&#x444;&#x444;&#x435;&#x43a;&#x442; &#x43e;&#x436;&#x438;&#x434;&#x430;&#x435;&#x43c;&#x43e;&#x439; &#x434;&#x438;&#x43d;&#x430;&#x43c;&#x438;&#x43a;&#x438; &#x446;&#x435;&#x43d;" FOLDED="true" ID="ID_489535548" CREATED="1581857998218" MODIFIED="1581858007399">
+<font BOLD="true"/>
+<node TEXT="9909_economy_lectures.png" ID="ID_443927344" CREATED="1582922779423" MODIFIED="1582922779423">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9909_economy_lectures.png" SIZE="0.605449" NAME="ExternalObject"/>
+</node>
+<node TEXT="9908_economy_lectures.png" ID="ID_1679270370" CREATED="1582922792271" MODIFIED="1582922792271">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9908_economy_lectures.png" SIZE="0.5964215" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_598273256" CREATED="1581858032061" MODIFIED="1581858035128">
+<font BOLD="true"/>
+<node TEXT="&#x41f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1012619039" CREATED="1582922810265" MODIFIED="1582922812636">
+<font BOLD="true"/>
+<node TEXT="9907_economy_lectures.png" ID="ID_1049091939" CREATED="1582922817753" MODIFIED="1582922817753">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9907_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x431;&#x44a;&#x451;&#x43c; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1752365180" CREATED="1581858036134" MODIFIED="1581858040538">
+<font BOLD="true"/>
+<node TEXT="9906_economy_lectures.png" ID="ID_1645910671" CREATED="1582922832876" MODIFIED="1582922832876">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9906_economy_lectures.png" SIZE="0.6066734" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x426;&#x435;&#x43d;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1306829836" CREATED="1581858042338" MODIFIED="1581858045064">
+<font BOLD="true"/>
+<node TEXT="9905_economy_lectures.png" ID="ID_913141843" CREATED="1582924379707" MODIFIED="1582924379707">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9905_economy_lectures.png" SIZE="0.60913706" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x424;&#x443;&#x43d;&#x43a;&#x446;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1553604518" CREATED="1581858208307" MODIFIED="1581858212243">
+<font BOLD="true"/>
+<node TEXT="&#x41e;&#x431;&#x449;&#x438;&#x439; &#x432;&#x438;&#x434;" FOLDED="true" ID="ID_143632096" CREATED="1582924412219" MODIFIED="1582924419395">
+<font BOLD="true"/>
+<node TEXT="9904_economy_lectures.png" ID="ID_1884759394" CREATED="1582924424621" MODIFIED="1582924424621">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9904_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x423;&#x43f;&#x440;&#x43e;&#x449;&#x435;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1906418871" CREATED="1582924488973" MODIFIED="1582924490689">
+<font BOLD="true"/>
+<node TEXT="9903_economy_lectures.png" ID="ID_894680046" CREATED="1582924495135" MODIFIED="1582924495135">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9903_economy_lectures.png" SIZE="0.6006006" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x422;&#x440;&#x438; &#x441;&#x43f;&#x43e;&#x441;&#x43e;&#x431;&#x430;" FOLDED="true" ID="ID_366531823" CREATED="1582924540973" MODIFIED="1582924544452">
+<font BOLD="true"/>
+<node TEXT="9902_economy_lectures.png" ID="ID_259733185" CREATED="1582924537947" MODIFIED="1582924537947">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9902_economy_lectures.png" SIZE="0.6042296" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x422;&#x430;&#x431;&#x43b;&#x438;&#x447;&#x43d;&#x430;&#x44f;" FOLDED="true" ID="ID_1447953462" CREATED="1581858229987" MODIFIED="1582924627368">
+<node TEXT="&#x417;&#x430;&#x432;&#x438;&#x441;&#x438;&#x43c;&#x43e;&#x441;&#x442;&#x44c; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f; &#x43e;&#x442; &#x446;&#x435;&#x43d;&#x44b; &#x442;&#x43e;&#x432;&#x430;&#x440;&#x430;" FOLDED="true" ID="ID_736898010" CREATED="1581858292802" MODIFIED="1582924627368">
+<icon BUILTIN="list"/>
+<font BOLD="true"/>
+<node TEXT="9901_economy_lectures.png" ID="ID_839227592" CREATED="1582924567547" MODIFIED="1582924567547">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9901_economy_lectures.png" SIZE="0.71513706" NAME="ExternalObject"/>
+</node>
+</node>
+</node>
+<node TEXT="&#x410;&#x43d;&#x430;&#x43b;&#x438;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f;" FOLDED="true" ID="ID_347154074" CREATED="1581858235554" MODIFIED="1581858238400">
+<node TEXT="9900_economy_lectures.png" ID="ID_113452054" CREATED="1582924603313" MODIFIED="1582924603313">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9900_economy_lectures.png" SIZE="0.63965887" NAME="ExternalObject"/>
+</node>
+</node>
 <node TEXT="&#x413;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f;" ID="ID_693932393" CREATED="1581858238844" MODIFIED="1581858282953">
-<node TEXT="&#x41b;&#x438;&#x43d;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1077766975" CREATED="1581858265830" MODIFIED="1581858277423">
+<node TEXT="&#x41b;&#x438;&#x43d;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1077766975" CREATED="1581858265830" MODIFIED="1581858277423">
 <icon BUILTIN="image"/>
 <font BOLD="true"/>
+<node TEXT="9899_economy_lectures.png" ID="ID_1986424867" CREATED="1582924621175" MODIFIED="1582924621175">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9899_economy_lectures.png" SIZE="0.90909094" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435;" FOLDED="true" ID="ID_1018208964" CREATED="1582924655708" MODIFIED="1582924657424">
+<font BOLD="true"/>
+<node TEXT="9898_economy_lectures.png" ID="ID_1452622537" CREATED="1582924661573" MODIFIED="1582924661573">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9898_economy_lectures.png" SIZE="0.6018054" NAME="ExternalObject"/>
 </node>
 </node>
 </node>
-<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f; &#x438; &#x441;&#x434;&#x432;&#x438;&#x433; &#x43b;&#x438;&#x43d;&#x438;&#x438; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_788497164" CREATED="1581858333114" MODIFIED="1581858346646">
+</node>
+<node TEXT="&#x418;&#x437;&#x43c;&#x435;&#x43d;&#x435;&#x43d;&#x438;&#x435; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f; &#x438; &#x441;&#x434;&#x432;&#x438;&#x433; &#x43b;&#x438;&#x43d;&#x438;&#x438; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_788497164" CREATED="1581858333114" MODIFIED="1581858346646">
 <icon BUILTIN="image"/>
 <font BOLD="true"/>
+<node TEXT="9897_economy_lectures.png" ID="ID_1324759907" CREATED="1582924694507" MODIFIED="1582924694507">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9897_economy_lectures.png" SIZE="0.63965887" NAME="ExternalObject"/>
 </node>
-<node TEXT="&#x41f;&#x440;&#x438;&#x447;&#x438;&#x43d;&#x44b; &#x443;&#x432;&#x435;&#x43b;&#x438;&#x447;&#x435;&#x43d;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_1622480937" CREATED="1581858396105" MODIFIED="1581858402944">
+</node>
+<node TEXT="&#x420;&#x430;&#x437;&#x43b;&#x438;&#x447;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43e;&#x43b;&#x436;&#x435;&#x43d;&#x438;&#x44f; &#x438; &#x43e;&#x431;&#x44a;&#x451;&#x43c;&#x430; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_242974559" CREATED="1582924700544" MODIFIED="1582924714584">
 <font BOLD="true"/>
+<node TEXT="9895_economy_lectures.png" ID="ID_419936369" CREATED="1582924781173" MODIFIED="1582924781173">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9895_economy_lectures.png" SIZE="0.6042296" NAME="ExternalObject"/>
+</node>
+<node TEXT="9894_economy_lectures.png" ID="ID_127345186" CREATED="1582924829152" MODIFIED="1582924829152">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9894_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x438;&#x447;&#x438;&#x43d;&#x44b; &#x443;&#x432;&#x435;&#x43b;&#x438;&#x447;&#x435;&#x43d;&#x438;&#x44f; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1622480937" CREATED="1581858396105" MODIFIED="1581858402944">
+<font BOLD="true"/>
+<node TEXT="9893_economy_lectures.png" ID="ID_1915116298" CREATED="1582924914338" MODIFIED="1582924914338">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9893_economy_lectures.png" SIZE="0.5952381" NAME="ExternalObject"/>
+</node>
 </node>
 </node>
 <node TEXT="&#x420;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x435; &#x440;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x438;&#x435;" ID="ID_1706896260" CREATED="1581858362075" MODIFIED="1581858366647">
 <font BOLD="true"/>
 <node TEXT="&#x412;&#x437;&#x430;&#x438;&#x43c;&#x43e;&#x434;&#x435;&#x441;&#x442;&#x432;&#x438;&#x435; &#x441;&#x43f;&#x440;&#x43e;&#x441;&#x430; &#x438; &#x43f;&#x440;&#x435;&#x434;&#x43b;&#x43e;&#x436;&#x435;&#x43d;&#x438;&#x44f;" ID="ID_234283707" CREATED="1581858428029" MODIFIED="1581858442475">
 <font BOLD="true"/>
-</node>
-<node TEXT="&#x421;&#x431;&#x430;&#x43b;&#x430;&#x43d;&#x441;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x43d;&#x43e;&#x441;&#x442;&#x44c; &#x440;&#x44b;&#x43d;&#x43a;&#x430;" ID="ID_517664859" CREATED="1581858453839" MODIFIED="1581858461517">
+<node TEXT="&#x420;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x43d;&#x44b;&#x439; &#x43e;&#x431;&#x44a;&#x451;&#x43c;" ID="ID_910190634" CREATED="1582925014237" MODIFIED="1582925017466">
 <font BOLD="true"/>
+</node>
+<node TEXT="&#x420;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x43d;&#x430;&#x44f; &#x446;&#x435;&#x43d;&#x430;" ID="ID_1769909516" CREATED="1582925024471" MODIFIED="1582925029931">
+<font BOLD="true"/>
+</node>
+<node TEXT="9892_economy_lectures.png" ID="ID_1562687594" CREATED="1582925007092" MODIFIED="1582925007092">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9892_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x431;&#x430;&#x43b;&#x430;&#x43d;&#x441;&#x438;&#x440;&#x43e;&#x432;&#x430;&#x43d;&#x43d;&#x43e;&#x441;&#x442;&#x44c; &#x440;&#x44b;&#x43d;&#x43a;&#x430;" FOLDED="true" ID="ID_517664859" CREATED="1581858453839" MODIFIED="1581858461517">
+<font BOLD="true"/>
+<node TEXT="9891_economy_lectures.png" ID="ID_1851892546" CREATED="1582925074130" MODIFIED="1582925074130">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9891_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x432;&#x44b;&#x441;&#x43e;&#x43a;&#x43e;&#x439; &#x440;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x439;" FOLDED="true" ID="ID_385639195" CREATED="1582925155530" MODIFIED="1582925165857">
+<font BOLD="true"/>
+<node TEXT="9890_economy_lectures.png" ID="ID_743499376" CREATED="1582925171083" MODIFIED="1582925171083">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9890_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+<node TEXT="9889_economy_lectures.png" ID="ID_372839707" CREATED="1582925195306" MODIFIED="1582925195306">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9889_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x440;&#x438;&#x43c;&#x435;&#x440; &#x43d;&#x438;&#x437;&#x43a;&#x43e;&#x439; &#x440;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x439;" FOLDED="true" ID="ID_581095708" CREATED="1582925230757" MODIFIED="1582925234532">
+<font BOLD="true"/>
+<node TEXT="9888_economy_lectures.png" ID="ID_494237439" CREATED="1582925241162" MODIFIED="1582925241162">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9888_economy_lectures.png" SIZE="0.5976096" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41c;&#x435;&#x445;&#x430;&#x43d;&#x438;&#x437;&#x43c; &#x434;&#x430;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f;" FOLDED="true" ID="ID_1840477892" CREATED="1582925263521" MODIFIED="1582925266891">
+<font BOLD="true"/>
+<node TEXT="9887_economy_lectures.png" ID="ID_998232516" CREATED="1582925292118" MODIFIED="1582925292118">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9887_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43f;&#x435;&#x43a;&#x443;&#x43b;&#x44f;&#x43d;&#x442;!" FOLDED="true" ID="ID_1468687070" CREATED="1582925294286" MODIFIED="1582925301914">
+<font BOLD="true"/>
+<node TEXT="9886_economy_lectures.png" ID="ID_1613326161" CREATED="1582925314770" MODIFIED="1582925314770">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9886_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+<node TEXT="9884_economy_lectures.png" ID="ID_1522309470" CREATED="1582925413445" MODIFIED="1582925413445">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9884_economy_lectures.png" SIZE="0.60913706" NAME="ExternalObject"/>
+</node>
 </node>
 <node TEXT="&#x420;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x435; &#x440;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x438;&#x435; &#x43f;&#x43e; &#x412;&#x430;&#x43b;&#x44c;&#x440;&#x430;&#x441;&#x443;" ID="ID_1913679233" CREATED="1581858548815" MODIFIED="1581858578440">
 <icon BUILTIN="image"/>
 <font BOLD="true"/>
+<node TEXT="9885_economy_lectures.png" ID="ID_1887126468" CREATED="1582925369325" MODIFIED="1582925369325">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9885_economy_lectures.png" SIZE="0.6586169" NAME="ExternalObject"/>
 </node>
-<node TEXT="&#x420;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x435; &#x440;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x438;&#x435; &#x43f;&#x43e; &#x41c;&#x430;&#x440;&#x448;&#x430;&#x43b;&#x43b;&#x443;" ID="ID_1260721123" CREATED="1581858548815" MODIFIED="1581858568481">
+</node>
+<node TEXT="&#x410;&#x43b;&#x44c;&#x442;&#x435;&#x440;&#x43d;&#x430;&#x442;&#x438;&#x432;&#x430;" FOLDED="true" ID="ID_634015882" CREATED="1582925427896" MODIFIED="1582925431265">
+<font BOLD="true"/>
+<node TEXT="9883_economy_lectures.png" ID="ID_1676198249" CREATED="1582925435618" MODIFIED="1582925435618">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9883_economy_lectures.png" SIZE="0.60913706" NAME="ExternalObject"/>
+</node>
+<node TEXT="9882_economy_lectures.png" ID="ID_982758351" CREATED="1582925461022" MODIFIED="1582925461022">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9882_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x420;&#x44b;&#x43d;&#x43e;&#x447;&#x43d;&#x43e;&#x435; &#x440;&#x430;&#x432;&#x43d;&#x43e;&#x432;&#x435;&#x441;&#x438;&#x435; &#x43f;&#x43e; &#x41c;&#x430;&#x440;&#x448;&#x430;&#x43b;&#x43b;&#x443;" FOLDED="true" ID="ID_1260721123" CREATED="1581858548815" MODIFIED="1581858568481">
 <icon BUILTIN="image"/>
 <font BOLD="true"/>
+<node TEXT="9885_economy_lectures.png" ID="ID_1829653513" CREATED="1582925369325" MODIFIED="1582925369325">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9885_economy_lectures.png" SIZE="0.6586169" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435; &#x41c;&#x430;&#x440;&#x448;&#x430;&#x43b;&#x43b;&#x430;" FOLDED="true" ID="ID_117146315" CREATED="1582925505758" MODIFIED="1582925522481">
+<font BOLD="true"/>
+<node TEXT="9881_economy_lectures.png" ID="ID_380346865" CREATED="1582925520859" MODIFIED="1582925520859">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9881_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41e;&#x431;&#x440;&#x430;&#x442;&#x43d;&#x44b;&#x439; &#x433;&#x440;&#x430;&#x444;&#x438;&#x43a;" FOLDED="true" ID="ID_341047660" CREATED="1582925524728" MODIFIED="1582925528893">
+<font BOLD="true"/>
+<node TEXT="9880_economy_lectures.png" ID="ID_649744856" CREATED="1582925556959" MODIFIED="1582925556959">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9880_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x41f;&#x43e;&#x434;&#x445;&#x43e;&#x434; &#x412;&#x430;&#x43b;&#x44c;&#x440;&#x430;&#x441;&#x430;" FOLDED="true" ID="ID_1690951242" CREATED="1582925560204" MODIFIED="1582925565196">
+<font BOLD="true"/>
+<node TEXT="9879_economy_lectures.png" ID="ID_1194404084" CREATED="1582925584163" MODIFIED="1582925584163">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9879_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
+</node>
+<node TEXT="&#x421;&#x43e;&#x432;&#x440;&#x435;&#x43c;&#x435;&#x43d;&#x43d;&#x430;&#x44f; &#x44d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x447;&#x435;&#x441;&#x43a;&#x430;&#x44f; &#x442;&#x435;&#x43e;&#x440;&#x438;&#x44f;" FOLDED="true" ID="ID_1279715359" CREATED="1582925590621" MODIFIED="1582925598328">
+<font BOLD="true"/>
+<node TEXT="9878_economy_lectures.png" ID="ID_1541849398" CREATED="1582925617819" MODIFIED="1582925617819">
+<hook URI="&#x42d;&#x43a;&#x43e;&#x43d;&#x43e;&#x43c;&#x438;&#x43a;&#x430;_files/9878_economy_lectures.png" SIZE="0.60301507" NAME="ExternalObject"/>
+</node>
 </node>
 <node TEXT="&#x412;&#x44b;&#x438;&#x433;&#x440;&#x44b;&#x448; &#x43f;&#x43e;&#x43a;&#x443;&#x43f;&#x430;&#x442;&#x435;&#x43b;&#x44f; &#x438; &#x432;&#x44b;&#x438;&#x433;&#x440;&#x44b;&#x448; &#x43f;&#x440;&#x43e;&#x434;&#x430;&#x432;&#x446;&#x430;" ID="ID_1873620291" CREATED="1581858599023" MODIFIED="1581858608413">
 <font BOLD="true"/>
